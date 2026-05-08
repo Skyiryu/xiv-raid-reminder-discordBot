@@ -24,9 +24,6 @@ The XIV Raid Reminder Bot automates direct-message reminders on a fixed weekly s
 ---
 
 ## 🧭 Roadmap / To Do
-
-The following features are planned to expand functionality, scalability, and usability of the bot:
-
 ---
 
 ### 🌍 Timezone System Upgrade
